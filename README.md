@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # UET Tag Verifier Chrome Extension:
 
 Universal Event Tracking (UET) is Microsoft's answer to Google Analytics' for
@@ -14,4 +13,3 @@ if you have a gloabl uetq variable set up with the proper bing domain.
 Extension is available on Chrome Web Store:
 [UET Tag
 Verifier](https://chrome.google.com/webstore/detail/bingads-uet-tag-verifier/jnnkgljnkfkjjafcboldojaanekhcmgd)
-=======
