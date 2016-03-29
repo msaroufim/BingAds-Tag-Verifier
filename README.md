@@ -1,5 +1,9 @@
 # UET Tag Verifier Chrome Extension:
 
+**Update as of 3/28/16: I am no longer a PM on the Bing Ads team so I am no longer maintaining this project. The Bing Ads team is working hard to provide a better UET tag experience and queries should be sent to the Ads PMs you are used to working with. BingAds UET tag verifier has officially passed away with 159 weekly unique users.**
+
+![Chrome store screenshot](/chrome.png)
+
 Universal Event Tracking (UET) is Microsoft's answer to Google Analytics' for
 advertisers. 
 
